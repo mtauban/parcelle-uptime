@@ -6,6 +6,11 @@ repo: parcelle-uptime # Your GitHub repository name
 sites:
   - name: Parcelle.app
     url: https://parcelle.app
+  - name: mathieutauban.fr
+    url: https://www.mathieutauban.fr/
+  - name: fluktify.eu
+    url: https://fluktify.eu/
+    
 
 
 status-website:
