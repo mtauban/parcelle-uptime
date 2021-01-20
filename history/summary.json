@@ -22,9 +22,9 @@
     "url": "https://www.mathieutauban.fr/",
     "icon": "https://favicons.githubusercontent.com/www.mathieutauban.fr",
     "slug": "mathieutauban-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 343,
     "timeMonth": 353,
     "timeYear": 353,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-20": 0
+    }
   },
   {
     "name": "fluktify.eu",
