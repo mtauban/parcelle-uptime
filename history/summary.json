@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 962,
-    "timeDay": 710,
-    "timeWeek": 839,
-    "timeMonth": 962,
-    "timeYear": 962,
+    "time": 947,
+    "timeDay": 721,
+    "timeWeek": 789,
+    "timeMonth": 947,
+    "timeYear": 947,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/www.mathieutauban.fr",
     "slug": "mathieutauban-fr",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 339,
-    "timeDay": 266,
-    "timeWeek": 349,
-    "timeMonth": 339,
-    "timeYear": 339,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 345,
+    "timeDay": 430,
+    "timeWeek": 308,
+    "timeMonth": 345,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2021-01-20": 38
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 980,
-    "timeDay": 809,
-    "timeWeek": 873,
-    "timeMonth": 980,
-    "timeYear": 980,
+    "time": 962,
+    "timeDay": 723,
+    "timeWeek": 825,
+    "timeMonth": 962,
+    "timeYear": 962,
     "dailyMinutesDown": {}
   }
 ]
