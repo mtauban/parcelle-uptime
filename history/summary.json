@@ -4,10 +4,10 @@
     "url": "https://parcelle.app",
     "icon": "https://favicons.githubusercontent.com/parcelle.app",
     "slug": "parcelle-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
@@ -15,7 +15,9 @@
     "timeWeek": 807,
     "timeMonth": 1008,
     "timeYear": 850,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 1
+    }
   },
   {
     "name": "mathieutauban.fr",
@@ -45,9 +47,9 @@
     "url": "https://fluktify.eu/",
     "icon": "https://favicons.githubusercontent.com/fluktify.eu",
     "slug": "fluktify-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,6 +58,8 @@
     "timeWeek": 794,
     "timeMonth": 825,
     "timeYear": 875,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-01": 0
+    }
   }
 ]
