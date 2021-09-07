@@ -10,11 +10,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 849,
-    "timeDay": 770,
-    "timeWeek": 832,
-    "timeMonth": 995,
-    "timeYear": 849,
+    "time": 848,
+    "timeDay": 555,
+    "timeWeek": 780,
+    "timeMonth": 954,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2021-09-01": 18
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 324,
-    "timeDay": 524,
-    "timeWeek": 268,
-    "timeMonth": 260,
+    "timeDay": 98,
+    "timeWeek": 260,
+    "timeMonth": 254,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2021-07-25": 15,
@@ -48,16 +48,16 @@
     "icon": "https://favicons.githubusercontent.com/fluktify.eu",
     "slug": "fluktify-eu",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 871,
-    "timeDay": 813,
-    "timeWeek": 790,
-    "timeMonth": 796,
-    "timeYear": 871,
+    "uptimeYear": "100.00%",
+    "time": 870,
+    "timeDay": 543,
+    "timeWeek": 689,
+    "timeMonth": 780,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2021-09-01": 17
     }
