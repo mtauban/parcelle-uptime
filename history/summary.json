@@ -4,10 +4,10 @@
     "url": "https://parcelle.app",
     "icon": "https://favicons.githubusercontent.com/parcelle.app",
     "slug": "parcelle-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
@@ -16,6 +16,7 @@
     "timeMonth": 863,
     "timeYear": 850,
     "dailyMinutesDown": {
+      "2021-10-13": 1,
       "2021-09-01": 18
     }
   },
@@ -48,7 +49,7 @@
     "url": "https://fluktify.eu/",
     "icon": "https://favicons.githubusercontent.com/fluktify.eu",
     "slug": "fluktify-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -60,6 +61,7 @@
     "timeMonth": 772,
     "timeYear": 857,
     "dailyMinutesDown": {
+      "2021-10-13": 0,
       "2021-09-01": 17
     }
   }
