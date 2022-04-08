@@ -4,9 +4,9 @@
     "url": "https://parcelle.app",
     "icon": "https://favicons.githubusercontent.com/parcelle.app",
     "slug": "parcelle-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 1061,
     "timeYear": 917,
     "dailyMinutesDown": {
+      "2022-04-08": 0,
       "2022-03-11": 21,
       "2021-10-13": 66,
       "2021-09-01": 18
