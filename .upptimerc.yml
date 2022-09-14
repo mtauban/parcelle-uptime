@@ -12,7 +12,12 @@ sites:
     url: https://fluktify.eu/
   - name: shado.app
     url: https://shado.app/    
-
+  - name: domainelescabanes.fr
+    url: https://domainelescabanes.fr/
+  - name: trucmoche.com
+    url: https://trucmoche.com/
+  - name: mtbn.fr
+    url: https://mtbn.fr
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
