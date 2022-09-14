@@ -10,7 +10,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 959,
+    "time": 960,
     "timeDay": 671,
     "timeWeek": 867,
     "timeMonth": 936,
@@ -31,11 +31,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 302,
-    "timeDay": 249,
-    "timeWeek": 324,
-    "timeMonth": 543,
+    "timeDay": 278,
+    "timeWeek": 321,
+    "timeMonth": 536,
     "timeYear": 294,
     "dailyMinutesDown": {
       "2022-08-16": 22,
@@ -60,10 +60,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 815,
-    "timeDay": 626,
-    "timeWeek": 684,
-    "timeMonth": 731,
+    "time": 816,
+    "timeDay": 709,
+    "timeWeek": 698,
+    "timeMonth": 733,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2022-08-10": 19,
@@ -71,5 +71,23 @@
       "2022-03-11": 21,
       "2021-10-13": 66
     }
+  },
+  {
+    "name": "shado.app",
+    "url": "https://shado.app/",
+    "icon": "https://favicons.githubusercontent.com/shado.app",
+    "slug": "shado-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 861,
+    "timeDay": 861,
+    "timeWeek": 861,
+    "timeMonth": 861,
+    "timeYear": 861,
+    "dailyMinutesDown": {}
   }
 ]
