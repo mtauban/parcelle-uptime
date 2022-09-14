@@ -10,7 +10,8 @@ sites:
     url: https://www.mathieutauban.fr/
   - name: fluktify.eu
     url: https://fluktify.eu/
-    
+  - name: shado.app
+    url: https://shado.app/    
 
 
 status-website:
