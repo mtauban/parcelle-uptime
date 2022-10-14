@@ -4,10 +4,10 @@
     "url": "https://parcelle.app",
     "icon": "https://icons.duckduckgo.com/ip3/parcelle.app.ico",
     "slug": "parcelle-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 966,
@@ -16,6 +16,7 @@
     "timeMonth": 955,
     "timeYear": 984,
     "dailyMinutesDown": {
+      "2022-10-14": 2,
       "2022-08-10": 19,
       "2022-03-11": 21
     }
@@ -53,18 +54,19 @@
     "url": "https://fluktify.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/fluktify.eu.ico",
     "slug": "fluktify-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 819,
+    "time": 818,
     "timeDay": 1226,
     "timeWeek": 1026,
     "timeMonth": 893,
     "timeYear": 827,
     "dailyMinutesDown": {
+      "2022-10-14": 1,
       "2022-08-10": 19,
       "2022-04-11": 18,
       "2022-03-11": 21
@@ -75,10 +77,10 @@
     "url": "https://shado.app/",
     "icon": "https://icons.duckduckgo.com/ip3/shado.app.ico",
     "slug": "shado-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 780,
@@ -86,16 +88,18 @@
     "timeWeek": 892,
     "timeMonth": 780,
     "timeYear": 780,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-14": 1
+    }
   },
   {
     "name": "domainelescabanes.fr",
     "url": "https://domainelescabanes.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/domainelescabanes.fr.ico",
     "slug": "domainelescabanes-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -104,7 +108,9 @@
     "timeWeek": 3773,
     "timeMonth": 3202,
     "timeYear": 3202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-14": 0
+    }
   },
   {
     "name": "trucmoche.com",
@@ -130,14 +136,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/mtbn.fr.ico",
     "slug": "mtbn-fr",
     "status": "up",
-    "uptime": "77.74%",
+    "uptime": "78.20%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.15%",
-    "uptimeMonth": "77.74%",
-    "uptimeYear": "77.74%",
+    "uptimeWeek": "87.56%",
+    "uptimeMonth": "78.20%",
+    "uptimeYear": "78.20%",
     "time": 2048,
     "timeDay": 1135,
-    "timeWeek": 1861,
+    "timeWeek": 1891,
     "timeMonth": 2048,
     "timeYear": 2048,
     "dailyMinutesDown": {
