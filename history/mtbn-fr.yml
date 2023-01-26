@@ -1,7 +1,7 @@
 url: https://mtbn.fr
-status: up
-code: 200
-responseTime: 615
-lastUpdated: 2023-01-25T23:20:23.885Z
+status: down
+code: 503
+responseTime: 1310
+lastUpdated: 2023-01-26T19:35:58.889Z
 startTime: Wed Sep 14 2022 20:26:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
