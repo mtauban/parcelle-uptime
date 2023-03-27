@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/parcelle.app.ico",
     "slug": "parcelle-app",
     "status": "up",
-    "uptime": "99.32%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.86%",
@@ -173,18 +173,19 @@
     "url": "https://mtbn.fr",
     "icon": "https://icons.duckduckgo.com/ip3/mtbn.fr.ico",
     "slug": "mtbn-fr",
-    "status": "up",
-    "uptime": "86.04%",
-    "uptimeDay": "95.37%",
+    "status": "down",
+    "uptime": "86.11%",
+    "uptimeDay": "99.15%",
     "uptimeWeek": "72.59%",
-    "uptimeMonth": "83.35%",
-    "uptimeYear": "86.04%",
-    "time": 1664,
-    "timeDay": 1120,
-    "timeWeek": 1402,
-    "timeMonth": 1453,
-    "timeYear": 1664,
+    "uptimeMonth": "83.47%",
+    "uptimeYear": "86.11%",
+    "time": 1665,
+    "timeDay": 1501,
+    "timeWeek": 1450,
+    "timeMonth": 1465,
+    "timeYear": 1665,
     "dailyMinutesDown": {
+      "2023-03-27": 0,
       "2023-03-26": 146,
       "2023-03-25": 608,
       "2023-03-24": 390,
@@ -310,8 +311,7 @@
       "2022-11-18": 187,
       "2022-11-17": 556,
       "2022-11-16": 33,
-      "2022-11-15": 462,
-      "2022-11-14": 210
+      "2022-11-15": 462
     }
   }
 ]
