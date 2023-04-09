@@ -173,18 +173,19 @@
     "url": "https://mtbn.fr",
     "icon": "https://icons.duckduckgo.com/ip3/mtbn.fr.ico",
     "slug": "mtbn-fr",
-    "status": "up",
-    "uptime": "87.05%",
-    "uptimeDay": "79.55%",
+    "status": "down",
+    "uptime": "87.07%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "93.80%",
-    "uptimeMonth": "83.08%",
-    "uptimeYear": "87.05%",
-    "time": 1636,
-    "timeDay": 642,
-    "timeWeek": 1100,
-    "timeMonth": 1234,
-    "timeYear": 1636,
+    "uptimeMonth": "83.57%",
+    "uptimeYear": "87.07%",
+    "time": 1635,
+    "timeDay": 853,
+    "timeWeek": 1099,
+    "timeMonth": 1218,
+    "timeYear": 1635,
     "dailyMinutesDown": {
+      "2023-04-09": 0,
       "2023-04-08": 374,
       "2023-04-07": 29,
       "2023-04-06": 33,
@@ -310,8 +311,7 @@
       "2022-11-30": 33,
       "2022-11-29": 17,
       "2022-11-28": 32,
-      "2022-11-27": 505,
-      "2022-11-26": 20
+      "2022-11-27": 505
     }
   }
 ]
