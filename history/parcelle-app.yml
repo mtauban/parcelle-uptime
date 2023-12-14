@@ -1,7 +1,7 @@
 url: https://parcelle.app
-status: up
-code: 200
-responseTime: 759
-lastUpdated: 2023-12-13T23:18:23.798Z
+status: down
+code: 502
+responseTime: 481
+lastUpdated: 2023-12-14T13:48:01.683Z
 startTime: 2021-01-10T15:15:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
