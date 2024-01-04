@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.08%",
-    "time": 962,
-    "timeDay": 1294,
-    "timeWeek": 906,
-    "timeMonth": 866,
-    "timeYear": 931,
+    "time": 960,
+    "timeDay": 733,
+    "timeWeek": 847,
+    "timeMonth": 868,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2023-08-16": 336,
       "2023-08-15": 1055,
@@ -31,8 +31,7 @@
       "2023-01-25": 16,
       "2023-01-07": 838,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 371
+      "2023-01-05": 1440
     }
   },
   {
@@ -46,11 +45,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 91,
-    "timeWeek": 139,
-    "timeMonth": 215,
-    "timeYear": 243,
+    "time": 308,
+    "timeDay": 150,
+    "timeWeek": 136,
+    "timeMonth": 204,
+    "timeYear": 241,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +63,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.09%",
-    "time": 929,
-    "timeDay": 1129,
-    "timeWeek": 848,
-    "timeMonth": 882,
-    "timeYear": 941,
+    "time": 930,
+    "timeDay": 888,
+    "timeWeek": 815,
+    "timeMonth": 888,
+    "timeYear": 936,
     "dailyMinutesDown": {
       "2023-08-16": 336,
       "2023-08-15": 1054,
@@ -85,8 +84,7 @@
       "2023-01-25": 16,
       "2023-01-07": 838,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 370
+      "2023-01-05": 1440
     }
   },
   {
@@ -95,18 +93,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/shado.app.ico",
     "slug": "shado-app",
     "status": "up",
-    "uptime": "97.50%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.99%",
+    "uptime": "97.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.09%",
     "time": 837,
-    "timeDay": 843,
-    "timeWeek": 797,
-    "timeMonth": 762,
+    "timeDay": 608,
+    "timeWeek": 735,
+    "timeMonth": 763,
     "timeYear": 848,
     "dailyMinutesDown": {
-      "2024-01-03": 7,
       "2023-08-16": 336,
       "2023-08-15": 1039,
       "2023-05-22": 989,
@@ -122,8 +119,7 @@
       "2023-01-25": 15,
       "2023-01-07": 838,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 370
+      "2023-01-05": 1440
     }
   },
   {
@@ -138,10 +134,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.09%",
     "time": 2475,
-    "timeDay": 2783,
-    "timeWeek": 2109,
-    "timeMonth": 2170,
-    "timeYear": 2328,
+    "timeDay": 2620,
+    "timeWeek": 2104,
+    "timeMonth": 2199,
+    "timeYear": 2318,
     "dailyMinutesDown": {
       "2023-08-16": 337,
       "2023-08-15": 1038,
@@ -157,8 +153,7 @@
       "2023-03-17": 588,
       "2023-01-07": 838,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 369
+      "2023-01-05": 1440
     }
   },
   {
@@ -167,15 +162,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "75.76%",
+    "uptime": "75.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.38%",
     "time": 553,
-    "timeDay": 791,
-    "timeWeek": 536,
-    "timeMonth": 539,
+    "timeDay": 459,
+    "timeWeek": 507,
+    "timeMonth": 536,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2023-09-08": 660,
@@ -306,11 +301,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.26%",
-    "time": 1251,
-    "timeDay": 1031,
-    "timeWeek": 926,
-    "timeMonth": 853,
+    "uptimeYear": "92.28%",
+    "time": 1250,
+    "timeDay": 736,
+    "timeWeek": 850,
+    "timeMonth": 840,
     "timeYear": 1178,
     "dailyMinutesDown": {
       "2023-05-09": 322,
@@ -431,8 +426,7 @@
       "2023-01-09": 346,
       "2023-01-08": 472,
       "2023-01-07": 371,
-      "2023-01-05": 28,
-      "2023-01-04": 193
+      "2023-01-05": 28
     }
   }
 ]
