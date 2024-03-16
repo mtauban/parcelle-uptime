@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.86%",
-    "time": 952,
-    "timeDay": 1187,
-    "timeWeek": 795,
-    "timeMonth": 924,
-    "timeYear": 915,
+    "time": 953,
+    "timeDay": 1293,
+    "timeWeek": 869,
+    "timeMonth": 942,
+    "timeYear": 917,
     "dailyMinutesDown": {
       "2023-08-16": 336,
       "2023-08-15": 1055,
@@ -26,8 +26,7 @@
       "2023-04-20": 438,
       "2023-04-19": 1440,
       "2023-04-18": 427,
-      "2023-03-18": 1222,
-      "2023-03-17": 590
+      "2023-03-18": 1222
     }
   },
   {
@@ -42,9 +41,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
-    "timeDay": 157,
-    "timeWeek": 188,
-    "timeMonth": 179,
+    "timeDay": 426,
+    "timeWeek": 224,
+    "timeMonth": 189,
     "timeYear": 219,
     "dailyMinutesDown": {}
   },
@@ -59,11 +58,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
-    "time": 925,
-    "timeDay": 1135,
-    "timeWeek": 747,
-    "timeMonth": 864,
-    "timeYear": 931,
+    "time": 926,
+    "timeDay": 965,
+    "timeWeek": 784,
+    "timeMonth": 872,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2023-08-16": 336,
       "2023-08-15": 1054,
@@ -75,8 +74,7 @@
       "2023-04-20": 415,
       "2023-04-19": 1440,
       "2023-04-18": 427,
-      "2023-03-18": 1223,
-      "2023-03-17": 590
+      "2023-03-18": 1223
     }
   },
   {
@@ -90,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
-    "time": 835,
-    "timeDay": 986,
-    "timeWeek": 654,
-    "timeMonth": 801,
-    "timeYear": 832,
+    "time": 836,
+    "timeDay": 970,
+    "timeWeek": 703,
+    "timeMonth": 812,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2023-08-16": 336,
       "2023-08-15": 1039,
@@ -106,8 +104,7 @@
       "2023-04-20": 415,
       "2023-04-19": 1440,
       "2023-04-18": 426,
-      "2023-03-18": 1223,
-      "2023-03-17": 589
+      "2023-03-18": 1223
     }
   },
   {
@@ -116,16 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/domainelescabanes.fr.ico",
     "slug": "domainelescabanes-fr",
     "status": "up",
-    "uptime": "97.83%",
+    "uptime": "97.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.87%",
-    "time": 2433,
-    "timeDay": 2749,
-    "timeWeek": 2345,
-    "timeMonth": 2505,
-    "timeYear": 2373,
+    "time": 2427,
+    "timeDay": 2630,
+    "timeWeek": 2436,
+    "timeMonth": 2516,
+    "timeYear": 2376,
     "dailyMinutesDown": {
       "2023-08-16": 337,
       "2023-08-15": 1038,
@@ -137,8 +134,7 @@
       "2023-04-20": 416,
       "2023-04-19": 1440,
       "2023-04-18": 426,
-      "2023-03-18": 1223,
-      "2023-03-17": 588
+      "2023-03-18": 1223
     }
   },
   {
@@ -147,16 +143,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "78.86%",
+    "uptime": "78.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "68.31%",
     "time": 646,
-    "timeDay": 653,
-    "timeWeek": 474,
-    "timeMonth": 556,
-    "timeYear": 680,
+    "timeDay": 647,
+    "timeWeek": 510,
+    "timeMonth": 564,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2024-02-25": 25,
       "2024-01-29": 39,
@@ -286,16 +282,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mtbn.fr.ico",
     "slug": "mtbn-fr",
     "status": "up",
-    "uptime": "94.39%",
+    "uptime": "94.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.98%",
-    "time": 1125,
-    "timeDay": 1246,
-    "timeWeek": 780,
-    "timeMonth": 864,
-    "timeYear": 912,
+    "uptimeYear": "96.06%",
+    "time": 1126,
+    "timeDay": 1011,
+    "timeWeek": 818,
+    "timeMonth": 868,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2024-02-13": 18,
       "2023-05-09": 322,
@@ -349,8 +345,7 @@
       "2023-03-21": 528,
       "2023-03-20": 658,
       "2023-03-19": 93,
-      "2023-03-18": 176,
-      "2023-03-17": 191
+      "2023-03-18": 176
     }
   }
 ]
