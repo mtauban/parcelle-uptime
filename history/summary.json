@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.21%",
     "time": 921,
-    "timeDay": 880,
-    "timeWeek": 950,
-    "timeMonth": 869,
-    "timeYear": 914,
+    "timeDay": 615,
+    "timeWeek": 942,
+    "timeMonth": 859,
+    "timeYear": 913,
     "dailyMinutesDown": {
       "2023-08-16": 336,
       "2023-08-15": 1055,
@@ -23,8 +23,7 @@
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 417,
-      "2023-04-20": 438,
-      "2023-04-19": 1440
+      "2023-04-20": 438
     }
   },
   {
@@ -39,10 +38,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 494,
-    "timeWeek": 208,
-    "timeMonth": 186,
-    "timeYear": 204,
+    "timeDay": 144,
+    "timeWeek": 212,
+    "timeMonth": 184,
+    "timeYear": 203,
     "dailyMinutesDown": {
       "2024-03-16": 16
     }
@@ -58,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.21%",
-    "time": 918,
-    "timeDay": 864,
+    "time": 917,
+    "timeDay": 683,
     "timeWeek": 891,
-    "timeMonth": 812,
-    "timeYear": 931,
+    "timeMonth": 808,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2023-08-16": 336,
       "2023-08-15": 1054,
@@ -71,8 +70,7 @@
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 416,
-      "2023-04-20": 415,
-      "2023-04-19": 1440
+      "2023-04-20": 415
     }
   },
   {
@@ -81,16 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shado.app.ico",
     "slug": "shado-app",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.21%",
     "time": 830,
-    "timeDay": 747,
-    "timeWeek": 833,
-    "timeMonth": 743,
-    "timeYear": 832,
+    "timeDay": 530,
+    "timeWeek": 832,
+    "timeMonth": 739,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2023-08-16": 336,
       "2023-08-15": 1039,
@@ -99,8 +97,7 @@
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 428,
-      "2023-04-20": 415,
-      "2023-04-19": 1440
+      "2023-04-20": 415
     }
   },
   {
@@ -109,16 +106,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/domainelescabanes.fr.ico",
     "slug": "domainelescabanes-fr",
     "status": "up",
-    "uptime": "97.95%",
+    "uptime": "97.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.21%",
-    "time": 2366,
-    "timeDay": 2576,
-    "timeWeek": 2879,
-    "timeMonth": 2363,
-    "timeYear": 2388,
+    "time": 2365,
+    "timeDay": 1930,
+    "timeWeek": 2864,
+    "timeMonth": 2340,
+    "timeYear": 2379,
     "dailyMinutesDown": {
       "2023-08-16": 337,
       "2023-08-15": 1038,
@@ -127,8 +124,7 @@
       "2023-05-20": 1440,
       "2023-05-19": 1440,
       "2023-05-18": 427,
-      "2023-04-20": 416,
-      "2023-04-19": 1440
+      "2023-04-20": 416
     }
   },
   {
@@ -137,16 +133,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "80.06%",
+    "uptime": "80.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "68.31%",
     "time": 642,
-    "timeDay": 486,
-    "timeWeek": 547,
-    "timeMonth": 497,
-    "timeYear": 678,
+    "timeDay": 371,
+    "timeWeek": 534,
+    "timeMonth": 493,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2024-02-25": 25,
       "2024-01-29": 39,
@@ -276,16 +272,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mtbn.fr.ico",
     "slug": "mtbn-fr",
     "status": "up",
-    "uptime": "94.71%",
+    "uptime": "94.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.59%",
-    "time": 915,
-    "timeDay": 764,
-    "timeWeek": 876,
-    "timeMonth": 795,
-    "timeYear": 838,
+    "uptimeYear": "97.70%",
+    "time": 914,
+    "timeDay": 621,
+    "timeWeek": 874,
+    "timeMonth": 793,
+    "timeYear": 836,
     "dailyMinutesDown": {
       "2024-02-13": 18,
       "2023-05-09": 322,
@@ -307,8 +303,7 @@
       "2023-04-23": 503,
       "2023-04-22": 158,
       "2023-04-21": 570,
-      "2023-04-20": 462,
-      "2023-04-19": 409
+      "2023-04-20": 462
     }
   }
 ]
