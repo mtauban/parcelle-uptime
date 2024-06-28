@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 924,
-    "timeDay": 1160,
-    "timeWeek": 1043,
-    "timeMonth": 1036,
-    "timeYear": 921,
+    "timeDay": 1179,
+    "timeWeek": 1028,
+    "timeMonth": 1049,
+    "timeYear": 920,
     "dailyMinutesDown": {
       "2023-08-16": 336,
       "2023-08-15": 1055
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 231,
-    "timeWeek": 175,
-    "timeMonth": 195,
+    "timeDay": 169,
+    "timeWeek": 176,
+    "timeMonth": 193,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2024-03-16": 16
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 916,
-    "timeDay": 1085,
-    "timeWeek": 941,
-    "timeMonth": 957,
-    "timeYear": 933,
+    "timeDay": 1074,
+    "timeWeek": 948,
+    "timeMonth": 972,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2023-08-16": 336,
       "2023-08-15": 1054
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 829,
-    "timeDay": 1166,
-    "timeWeek": 947,
-    "timeMonth": 911,
+    "timeDay": 1017,
+    "timeWeek": 954,
+    "timeMonth": 926,
     "timeYear": 824,
     "dailyMinutesDown": {
       "2023-08-16": 336,
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 2393,
-    "timeDay": 2539,
-    "timeWeek": 2462,
-    "timeMonth": 2775,
-    "timeYear": 2446,
+    "time": 2396,
+    "timeDay": 3644,
+    "timeWeek": 2651,
+    "timeMonth": 2803,
+    "timeYear": 2450,
     "dailyMinutesDown": {
       "2023-08-16": 337,
       "2023-08-15": 1038
@@ -109,15 +109,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "82.23%",
+    "uptime": "82.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.81%",
+    "uptimeYear": "80.08%",
     "time": 698,
-    "timeDay": 661,
-    "timeWeek": 555,
-    "timeMonth": 610,
+    "timeDay": 746,
+    "timeWeek": 569,
+    "timeMonth": 617,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2024-04-18": 20,
@@ -195,8 +195,7 @@
       "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
-      "2023-06-30": 1440,
-      "2023-06-29": 1440
+      "2023-06-30": 1440
     }
   },
   {
@@ -205,16 +204,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mtbn.fr.ico",
     "slug": "mtbn-fr",
     "status": "up",
-    "uptime": "95.28%",
+    "uptime": "95.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 865,
-    "timeDay": 1132,
-    "timeWeek": 968,
-    "timeMonth": 931,
-    "timeYear": 847,
+    "timeDay": 892,
+    "timeWeek": 940,
+    "timeMonth": 936,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2024-02-13": 18
     }
