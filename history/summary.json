@@ -199,9 +199,9 @@
     "url": "https://mtbn.fr",
     "icon": "https://icons.duckduckgo.com/ip3/mtbn.fr.ico",
     "slug": "mtbn-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "96.05%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -211,6 +211,7 @@
     "timeMonth": 922,
     "timeYear": 896,
     "dailyMinutesDown": {
+      "2024-10-31": 0,
       "2024-02-13": 18
     }
   }
