@@ -43,9 +43,9 @@
     "url": "https://www.mathieutauban.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.mathieutauban.fr.ico",
     "slug": "mathieutauban-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,6 +55,7 @@
     "timeMonth": 254,
     "timeYear": 232,
     "dailyMinutesDown": {
+      "2025-07-24": 0,
       "2025-05-07": 16
     }
   },
