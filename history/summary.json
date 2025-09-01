@@ -9,16 +9,15 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
-    "time": 964,
-    "timeDay": 701,
-    "timeWeek": 761,
-    "timeMonth": 932,
-    "timeYear": 957,
+    "uptimeYear": "99.90%",
+    "time": 966,
+    "timeDay": 2082,
+    "timeWeek": 950,
+    "timeMonth": 963,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2025-02-04": 36,
-      "2024-10-08": 35,
-      "2024-09-01": 569
+      "2024-10-08": 35
     }
   },
   {
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 224,
-    "timeDay": 158,
-    "timeWeek": 136,
-    "timeMonth": 206,
+    "timeDay": 222,
+    "timeWeek": 145,
+    "timeMonth": 207,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2025-07-24": 17,
@@ -52,15 +51,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.91%",
     "time": 835,
-    "timeDay": 813,
-    "timeWeek": 734,
-    "timeMonth": 894,
-    "timeYear": 813,
+    "timeDay": 931,
+    "timeWeek": 782,
+    "timeMonth": 890,
+    "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-02-04": 35,
-      "2024-09-01": 569
+      "2025-02-04": 35
     }
   },
   {
@@ -69,20 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/shado.app.ico",
     "slug": "shado-app",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
-    "time": 855,
-    "timeDay": 661,
-    "timeWeek": 636,
-    "timeMonth": 820,
-    "timeYear": 855,
+    "uptimeYear": "99.90%",
+    "time": 856,
+    "timeDay": 1209,
+    "timeWeek": 726,
+    "timeMonth": 823,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2025-02-04": 35,
-      "2024-10-30": 17,
-      "2024-09-01": 569
+      "2024-10-30": 17
     }
   },
   {
@@ -91,20 +88,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/domainelescabanes.fr.ico",
     "slug": "domainelescabanes-fr",
     "status": "up",
-    "uptime": "97.37%",
+    "uptime": "97.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.90%",
     "time": 2481,
-    "timeDay": 6651,
-    "timeWeek": 3058,
-    "timeMonth": 2540,
-    "timeYear": 2397,
+    "timeDay": 2898,
+    "timeWeek": 3185,
+    "timeMonth": 2550,
+    "timeYear": 2398,
     "dailyMinutesDown": {
       "2025-02-04": 35,
-      "2024-10-30": 17,
-      "2024-09-01": 569
+      "2024-10-30": 17
     }
   },
   {
@@ -113,15 +109,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "89.30%",
+    "uptime": "89.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 668,
-    "timeDay": 546,
-    "timeWeek": 481,
-    "timeMonth": 572,
+    "timeDay": 921,
+    "timeWeek": 533,
+    "timeMonth": 580,
     "timeYear": 665,
     "dailyMinutesDown": {
       "2025-08-26": 48,
@@ -140,9 +136,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 884,
-    "timeDay": 618,
-    "timeWeek": 627,
-    "timeMonth": 782,
+    "timeDay": 1036,
+    "timeWeek": 684,
+    "timeMonth": 783,
     "timeYear": 868,
     "dailyMinutesDown": {
       "2025-03-27": 25,
