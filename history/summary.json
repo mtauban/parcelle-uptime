@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 970,
-    "timeDay": 1225,
-    "timeWeek": 1154,
-    "timeMonth": 989,
-    "timeYear": 961,
+    "timeDay": 1093,
+    "timeWeek": 1116,
+    "timeMonth": 1000,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2025-02-04": 36
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 260,
-    "timeDay": 193,
-    "timeWeek": 210,
-    "timeMonth": 228,
+    "timeDay": 201,
+    "timeWeek": 202,
+    "timeMonth": 230,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 835,
-    "timeDay": 1277,
-    "timeWeek": 941,
-    "timeMonth": 888,
-    "timeYear": 817,
+    "time": 836,
+    "timeDay": 1027,
+    "timeWeek": 966,
+    "timeMonth": 892,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -67,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shado.app.ico",
     "slug": "shado-app",
     "status": "up",
-    "uptime": "97.54%",
+    "uptime": "97.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 861,
-    "timeDay": 1508,
-    "timeWeek": 1024,
-    "timeMonth": 893,
-    "timeYear": 858,
+    "time": 862,
+    "timeDay": 1110,
+    "timeWeek": 1013,
+    "timeMonth": 909,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2420,
-    "timeDay": 2275,
-    "timeWeek": 2229,
-    "timeMonth": 2132,
-    "timeYear": 2387,
+    "time": 2416,
+    "timeDay": 2298,
+    "timeWeek": 2206,
+    "timeMonth": 2131,
+    "timeYear": 2388,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -107,15 +107,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "89.99%",
+    "uptime": "90.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 647,
-    "timeDay": 736,
-    "timeWeek": 625,
-    "timeMonth": 572,
+    "timeDay": 601,
+    "timeWeek": 617,
+    "timeMonth": 577,
     "timeYear": 668,
     "dailyMinutesDown": {
       "2025-08-26": 48,
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
-    "timeDay": 934,
-    "timeWeek": 863,
-    "timeMonth": 766,
-    "timeYear": 840,
+    "time": 862,
+    "timeDay": 1076,
+    "timeWeek": 890,
+    "timeMonth": 781,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2025-03-27": 25
     }
