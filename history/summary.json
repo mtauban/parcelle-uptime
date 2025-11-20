@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 970,
-    "timeDay": 932,
-    "timeWeek": 1063,
-    "timeMonth": 1011,
-    "timeYear": 962,
+    "timeDay": 752,
+    "timeWeek": 986,
+    "timeMonth": 999,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2025-02-04": 36
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 260,
-    "timeDay": 247,
-    "timeWeek": 276,
-    "timeMonth": 252,
+    "timeDay": 178,
+    "timeWeek": 261,
+    "timeMonth": 249,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 836,
-    "timeDay": 650,
-    "timeWeek": 923,
+    "timeDay": 837,
+    "timeWeek": 909,
     "timeMonth": 893,
-    "timeYear": 818,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -67,16 +67,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/shado.app.ico",
     "slug": "shado-app",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 862,
-    "timeDay": 679,
-    "timeWeek": 1013,
-    "timeMonth": 914,
-    "timeYear": 860,
+    "timeDay": 622,
+    "timeWeek": 946,
+    "timeMonth": 907,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2411,
-    "timeDay": 1981,
-    "timeWeek": 2207,
-    "timeMonth": 2124,
-    "timeYear": 2390,
+    "time": 2410,
+    "timeDay": 1918,
+    "timeWeek": 2085,
+    "timeMonth": 2131,
+    "timeYear": 2389,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -107,16 +107,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "90.03%",
+    "uptime": "90.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 647,
-    "timeDay": 546,
-    "timeWeek": 626,
-    "timeMonth": 585,
-    "timeYear": 669,
+    "timeDay": 444,
+    "timeWeek": 595,
+    "timeMonth": 581,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2025-08-26": 48,
       "2024-12-06": 16
@@ -133,11 +133,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 862,
-    "timeDay": 736,
-    "timeWeek": 863,
-    "timeMonth": 783,
-    "timeYear": 840,
+    "time": 861,
+    "timeDay": 981,
+    "timeWeek": 861,
+    "timeMonth": 788,
+    "timeYear": 837,
     "dailyMinutesDown": {
       "2025-03-27": 25
     }
