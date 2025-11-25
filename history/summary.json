@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 969,
-    "timeDay": 876,
-    "timeWeek": 933,
-    "timeMonth": 991,
-    "timeYear": 962,
+    "time": 970,
+    "timeDay": 981,
+    "timeWeek": 952,
+    "timeMonth": 997,
+    "timeYear": 961,
     "dailyMinutesDown": {
       "2025-02-04": 36
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 260,
-    "timeDay": 206,
-    "timeWeek": 207,
-    "timeMonth": 240,
+    "time": 259,
+    "timeDay": 195,
+    "timeWeek": 197,
+    "timeMonth": 222,
     "timeYear": 268,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 836,
-    "timeDay": 865,
-    "timeWeek": 821,
+    "timeDay": 797,
+    "timeWeek": 808,
     "timeMonth": 889,
-    "timeYear": 818,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 860,
-    "timeDay": 859,
-    "timeWeek": 769,
-    "timeMonth": 894,
+    "timeDay": 915,
+    "timeWeek": 789,
+    "timeMonth": 899,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2025-02-04": 35
@@ -88,17 +88,16 @@
     "slug": "domainelescabanes-fr",
     "status": "up",
     "uptime": "97.57%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2396,
-    "timeDay": 1347,
-    "timeWeek": 1800,
-    "timeMonth": 2089,
+    "timeDay": 1397,
+    "timeWeek": 1822,
+    "timeMonth": 2094,
     "timeYear": 2383,
     "dailyMinutesDown": {
-      "2025-11-24": 7,
       "2025-02-04": 35
     }
   },
@@ -113,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 646,
-    "timeDay": 509,
-    "timeWeek": 574,
-    "timeMonth": 588,
-    "timeYear": 669,
+    "time": 647,
+    "timeDay": 647,
+    "timeWeek": 587,
+    "timeMonth": 593,
+    "timeYear": 668,
     "dailyMinutesDown": {
       "2025-08-26": 48,
       "2024-12-06": 16
@@ -134,10 +133,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
-    "timeDay": 661,
-    "timeWeek": 758,
-    "timeMonth": 776,
+    "time": 860,
+    "timeDay": 761,
+    "timeWeek": 778,
+    "timeMonth": 774,
     "timeYear": 832,
     "dailyMinutesDown": {
       "2025-03-27": 25
