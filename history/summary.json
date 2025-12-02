@@ -106,9 +106,9 @@
     "url": "https://trucmoche.com/",
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
-    "status": "up",
-    "uptime": "90.14%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "90.15%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -118,6 +118,7 @@
     "timeMonth": 566,
     "timeYear": 667,
     "dailyMinutesDown": {
+      "2025-12-02": 0,
       "2025-08-26": 48,
       "2024-12-06": 16
     }
