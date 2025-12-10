@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 971,
-    "timeDay": 1101,
-    "timeWeek": 1243,
-    "timeMonth": 1036,
-    "timeYear": 964,
+    "time": 970,
+    "timeDay": 719,
+    "timeWeek": 1188,
+    "timeMonth": 1017,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2025-02-04": 36
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 263,
-    "timeDay": 218,
-    "timeWeek": 255,
-    "timeMonth": 281,
+    "time": 262,
+    "timeDay": 255,
+    "timeWeek": 257,
+    "timeMonth": 283,
     "timeYear": 272,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 834,
-    "timeDay": 710,
-    "timeWeek": 982,
-    "timeMonth": 875,
-    "timeYear": 818,
+    "time": 832,
+    "timeDay": 666,
+    "timeWeek": 870,
+    "timeMonth": 864,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 861,
-    "timeDay": 854,
-    "timeWeek": 964,
-    "timeMonth": 891,
-    "timeYear": 850,
+    "time": 860,
+    "timeDay": 659,
+    "timeWeek": 901,
+    "timeMonth": 877,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2370,
-    "timeDay": 1880,
-    "timeWeek": 2176,
-    "timeMonth": 2037,
-    "timeYear": 2383,
+    "time": 2367,
+    "timeDay": 1744,
+    "timeWeek": 2031,
+    "timeMonth": 2030,
+    "timeYear": 2381,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -107,16 +107,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "90.20%",
+    "uptime": "90.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 646,
-    "timeDay": 700,
-    "timeWeek": 644,
-    "timeMonth": 593,
-    "timeYear": 661,
+    "time": 645,
+    "timeDay": 457,
+    "timeWeek": 617,
+    "timeMonth": 587,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-08-26": 48
     }
@@ -127,16 +127,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mtbn.fr.ico",
     "slug": "mtbn-fr",
     "status": "up",
-    "uptime": "97.42%",
+    "uptime": "97.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 855,
-    "timeDay": 721,
-    "timeWeek": 880,
-    "timeMonth": 799,
-    "timeYear": 826,
+    "timeDay": 537,
+    "timeWeek": 793,
+    "timeMonth": 784,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2025-03-27": 25
     }
