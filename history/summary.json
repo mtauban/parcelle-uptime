@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 968,
-    "timeDay": 671,
-    "timeWeek": 920,
-    "timeMonth": 1015,
+    "timeDay": 799,
+    "timeWeek": 929,
+    "timeMonth": 1014,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2025-02-04": 36
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 263,
-    "timeDay": 688,
-    "timeWeek": 302,
-    "timeMonth": 299,
+    "timeDay": 193,
+    "timeWeek": 309,
+    "timeMonth": 300,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 832,
-    "timeDay": 758,
-    "timeWeek": 816,
-    "timeMonth": 862,
+    "timeDay": 690,
+    "timeWeek": 812,
+    "timeMonth": 864,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2025-02-04": 35
@@ -72,10 +72,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 860,
-    "timeDay": 679,
-    "timeWeek": 855,
-    "timeMonth": 878,
+    "time": 859,
+    "timeDay": 672,
+    "timeWeek": 845,
+    "timeMonth": 877,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2025-02-04": 35
@@ -92,10 +92,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2364,
-    "timeDay": 1683,
-    "timeWeek": 1905,
-    "timeMonth": 2032,
+    "time": 2362,
+    "timeDay": 1949,
+    "timeWeek": 1955,
+    "timeMonth": 2031,
     "timeYear": 2380,
     "dailyMinutesDown": {
       "2025-02-04": 35
@@ -107,15 +107,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "90.22%",
+    "uptime": "90.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 645,
-    "timeDay": 457,
-    "timeWeek": 573,
-    "timeMonth": 589,
+    "timeDay": 556,
+    "timeWeek": 582,
+    "timeMonth": 591,
     "timeYear": 659,
     "dailyMinutesDown": {
       "2025-08-26": 48
@@ -132,10 +132,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 854,
-    "timeDay": 639,
-    "timeWeek": 765,
-    "timeMonth": 784,
+    "time": 853,
+    "timeDay": 656,
+    "timeWeek": 780,
+    "timeMonth": 788,
     "timeYear": 824,
     "dailyMinutesDown": {
       "2025-03-27": 25
