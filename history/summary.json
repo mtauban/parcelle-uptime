@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 967,
-    "timeDay": 1132,
-    "timeWeek": 895,
-    "timeMonth": 985,
-    "timeYear": 961,
+    "timeDay": 1182,
+    "timeWeek": 968,
+    "timeMonth": 996,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2025-02-04": 36
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 262,
-    "timeDay": 265,
-    "timeWeek": 300,
-    "timeMonth": 294,
+    "time": 261,
+    "timeDay": 165,
+    "timeWeek": 225,
+    "timeMonth": 290,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 830,
-    "timeDay": 981,
-    "timeWeek": 811,
-    "timeMonth": 840,
+    "time": 831,
+    "timeDay": 1027,
+    "timeWeek": 850,
+    "timeMonth": 845,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2025-02-04": 35
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 857,
-    "timeDay": 989,
-    "timeWeek": 774,
-    "timeMonth": 825,
-    "timeYear": 847,
+    "time": 858,
+    "timeDay": 1117,
+    "timeWeek": 837,
+    "timeMonth": 836,
+    "timeYear": 849,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -87,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/domainelescabanes.fr.ico",
     "slug": "domainelescabanes-fr",
     "status": "up",
-    "uptime": "97.61%",
+    "uptime": "97.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2346,
-    "timeDay": 2254,
-    "timeWeek": 1873,
-    "timeMonth": 1970,
-    "timeYear": 2377,
+    "time": 2347,
+    "timeDay": 2553,
+    "timeWeek": 1997,
+    "timeMonth": 1986,
+    "timeYear": 2378,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -107,16 +107,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "90.27%",
+    "uptime": "90.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 644,
-    "timeDay": 646,
-    "timeWeek": 561,
-    "timeMonth": 579,
-    "timeYear": 659,
+    "timeDay": 815,
+    "timeWeek": 612,
+    "timeMonth": 587,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2025-08-26": 48
     }
@@ -133,10 +133,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
-    "timeDay": 837,
-    "timeWeek": 758,
-    "timeMonth": 766,
-    "timeYear": 821,
+    "timeDay": 1041,
+    "timeWeek": 816,
+    "timeMonth": 780,
+    "timeYear": 822,
     "dailyMinutesDown": {
       "2025-03-27": 25
     }
