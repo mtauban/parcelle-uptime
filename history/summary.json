@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 967,
-    "timeDay": 1182,
-    "timeWeek": 968,
-    "timeMonth": 996,
-    "timeYear": 962,
+    "timeDay": 1305,
+    "timeWeek": 1040,
+    "timeMonth": 1009,
+    "timeYear": 963,
     "dailyMinutesDown": {
       "2025-02-04": 36
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 261,
-    "timeDay": 165,
-    "timeWeek": 225,
-    "timeMonth": 290,
+    "timeDay": 160,
+    "timeWeek": 220,
+    "timeMonth": 287,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 831,
-    "timeDay": 1027,
-    "timeWeek": 850,
-    "timeMonth": 845,
+    "time": 830,
+    "timeDay": 901,
+    "timeWeek": 880,
+    "timeMonth": 854,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2025-02-04": 35
@@ -67,15 +67,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/shado.app.ico",
     "slug": "shado-app",
     "status": "up",
-    "uptime": "97.61%",
+    "uptime": "97.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 858,
-    "timeDay": 1117,
-    "timeWeek": 837,
-    "timeMonth": 836,
+    "time": 859,
+    "timeDay": 1246,
+    "timeWeek": 919,
+    "timeMonth": 855,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2025-02-04": 35
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2347,
-    "timeDay": 2553,
-    "timeWeek": 1997,
-    "timeMonth": 1986,
+    "timeDay": 2350,
+    "timeWeek": 2055,
+    "timeMonth": 1998,
     "timeYear": 2378,
     "dailyMinutesDown": {
       "2025-02-04": 35
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 644,
-    "timeDay": 815,
-    "timeWeek": 612,
-    "timeMonth": 587,
-    "timeYear": 660,
+    "time": 645,
+    "timeDay": 619,
+    "timeWeek": 621,
+    "timeMonth": 589,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-08-26": 48
     }
@@ -127,16 +127,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mtbn.fr.ico",
     "slug": "mtbn-fr",
     "status": "up",
-    "uptime": "97.44%",
+    "uptime": "97.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 1041,
-    "timeWeek": 816,
-    "timeMonth": 780,
-    "timeYear": 822,
+    "time": 851,
+    "timeDay": 1514,
+    "timeWeek": 938,
+    "timeMonth": 805,
+    "timeYear": 823,
     "dailyMinutesDown": {
       "2025-03-27": 25
     }
