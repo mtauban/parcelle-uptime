@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 968,
-    "timeDay": 1202,
-    "timeWeek": 1094,
-    "timeMonth": 1023,
-    "timeYear": 966,
+    "timeDay": 1223,
+    "timeWeek": 1099,
+    "timeMonth": 1031,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2025-02-04": 36
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 260,
-    "timeDay": 252,
-    "timeWeek": 186,
-    "timeMonth": 289,
+    "timeDay": 114,
+    "timeWeek": 179,
+    "timeMonth": 286,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -47,16 +47,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fluktify.eu.ico",
     "slug": "fluktify-eu",
     "status": "up",
-    "uptime": "98.42%",
+    "uptime": "98.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 829,
-    "timeDay": 1008,
-    "timeWeek": 899,
-    "timeMonth": 859,
-    "timeYear": 819,
+    "time": 830,
+    "timeDay": 1041,
+    "timeWeek": 901,
+    "timeMonth": 867,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 858,
-    "timeDay": 1089,
-    "timeWeek": 983,
-    "timeMonth": 875,
-    "timeYear": 851,
+    "time": 859,
+    "timeDay": 1148,
+    "timeWeek": 987,
+    "timeMonth": 883,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -92,11 +92,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2343,
-    "timeDay": 2027,
-    "timeWeek": 2087,
-    "timeMonth": 1982,
-    "timeYear": 2378,
+    "time": 2344,
+    "timeDay": 2791,
+    "timeWeek": 2121,
+    "timeMonth": 2067,
+    "timeYear": 2381,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -107,16 +107,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "90.32%",
-    "uptimeDay": "95.17%",
+    "uptime": "90.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 646,
-    "timeDay": 615,
-    "timeWeek": 601,
+    "timeDay": 632,
+    "timeWeek": 578,
     "timeMonth": 585,
-    "timeYear": 660,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2025-12-24": 65,
       "2025-12-23": 4,
@@ -134,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 849,
-    "timeDay": 1038,
-    "timeWeek": 947,
-    "timeMonth": 810,
-    "timeYear": 823,
+    "time": 850,
+    "timeDay": 1008,
+    "timeWeek": 942,
+    "timeMonth": 818,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2025-03-27": 25
     }
