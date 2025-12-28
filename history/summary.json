@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 968,
-    "timeDay": 910,
-    "timeWeek": 997,
-    "timeMonth": 1037,
-    "timeYear": 966,
+    "timeDay": 805,
+    "timeWeek": 983,
+    "timeMonth": 1033,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2025-02-04": 36
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 262,
-    "timeDay": 487,
+    "time": 261,
+    "timeDay": 230,
     "timeWeek": 302,
-    "timeMonth": 294,
+    "timeMonth": 277,
     "timeYear": 275,
     "dailyMinutesDown": {
       "2025-10-20": 27,
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 829,
-    "timeDay": 622,
-    "timeWeek": 867,
-    "timeMonth": 866,
-    "timeYear": 818,
+    "timeDay": 764,
+    "timeWeek": 858,
+    "timeMonth": 863,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 858,
-    "timeDay": 679,
-    "timeWeek": 852,
-    "timeMonth": 883,
-    "timeYear": 851,
+    "timeDay": 649,
+    "timeWeek": 831,
+    "timeMonth": 881,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -87,16 +87,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/domainelescabanes.fr.ico",
     "slug": "domainelescabanes-fr",
     "status": "up",
-    "uptime": "97.63%",
+    "uptime": "97.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2343,
-    "timeDay": 1631,
-    "timeWeek": 2176,
-    "timeMonth": 2082,
-    "timeYear": 2382,
+    "timeDay": 1889,
+    "timeWeek": 2158,
+    "timeMonth": 2068,
+    "timeYear": 2381,
     "dailyMinutesDown": {
       "2025-02-04": 35
     }
@@ -113,9 +113,9 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 645,
-    "timeDay": 589,
+    "timeDay": 530,
     "timeWeek": 566,
-    "timeMonth": 590,
+    "timeMonth": 589,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2025-12-24": 65,
@@ -135,10 +135,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 850,
-    "timeDay": 702,
-    "timeWeek": 791,
-    "timeMonth": 820,
-    "timeYear": 822,
+    "timeDay": 794,
+    "timeWeek": 818,
+    "timeMonth": 824,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2025-03-27": 25
     }
