@@ -4,18 +4,19 @@
     "url": "https://parcelle.app",
     "icon": "https://icons.duckduckgo.com/ip3/parcelle.app.ico",
     "slug": "parcelle-app",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 970,
+    "time": 969,
     "timeDay": 769,
     "timeWeek": 889,
     "timeMonth": 1020,
     "timeYear": 973,
     "dailyMinutesDown": {
+      "2026-01-29": 2,
       "2025-02-04": 36
     }
   },
@@ -47,10 +48,10 @@
     "url": "https://fluktify.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/fluktify.eu.ico",
     "slug": "fluktify-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 831,
@@ -59,6 +60,7 @@
     "timeMonth": 901,
     "timeYear": 823,
     "dailyMinutesDown": {
+      "2026-01-29": 1,
       "2025-02-04": 35
     }
   },
@@ -67,10 +69,10 @@
     "url": "https://shado.app/",
     "icon": "https://icons.duckduckgo.com/ip3/shado.app.ico",
     "slug": "shado-app",
-    "status": "up",
+    "status": "down",
     "uptime": "97.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 862,
@@ -79,6 +81,7 @@
     "timeMonth": 920,
     "timeYear": 857,
     "dailyMinutesDown": {
+      "2026-01-29": 1,
       "2025-02-04": 35
     }
   },
@@ -87,18 +90,19 @@
     "url": "https://domainelescabanes.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/domainelescabanes.fr.ico",
     "slug": "domainelescabanes-fr",
-    "status": "up",
+    "status": "down",
     "uptime": "97.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2326,
+    "time": 2325,
     "timeDay": 1619,
     "timeWeek": 2105,
     "timeMonth": 2206,
     "timeYear": 2387,
     "dailyMinutesDown": {
+      "2026-01-29": 0,
       "2025-02-04": 35
     }
   },
