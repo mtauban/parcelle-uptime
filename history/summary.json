@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
-    "time": 974,
-    "timeDay": 1117,
-    "timeWeek": 1140,
-    "timeMonth": 1034,
-    "timeYear": 975,
+    "time": 973,
+    "timeDay": 794,
+    "timeWeek": 1061,
+    "timeMonth": 1002,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2026-01-29": 119
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 269,
-    "timeDay": 207,
-    "timeWeek": 304,
-    "timeMonth": 347,
+    "time": 270,
+    "timeDay": 395,
+    "timeWeek": 340,
+    "timeMonth": 354,
     "timeYear": 288,
     "dailyMinutesDown": {
       "2026-01-06": 17,
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
-    "time": 833,
-    "timeDay": 1024,
-    "timeWeek": 910,
-    "timeMonth": 897,
-    "timeYear": 820,
+    "time": 832,
+    "timeDay": 746,
+    "timeWeek": 876,
+    "timeMonth": 871,
+    "timeYear": 821,
     "dailyMinutesDown": {
       "2026-01-29": 119
     }
@@ -74,9 +74,9 @@
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
     "time": 867,
-    "timeDay": 1093,
-    "timeWeek": 939,
-    "timeMonth": 947,
+    "timeDay": 783,
+    "timeWeek": 906,
+    "timeMonth": 919,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2026-01-29": 118
@@ -88,16 +88,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/domainelescabanes.fr.ico",
     "slug": "domainelescabanes-fr",
     "status": "up",
-    "uptime": "97.71%",
+    "uptime": "97.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.98%",
-    "time": 2320,
-    "timeDay": 1845,
-    "timeWeek": 1645,
-    "timeMonth": 2078,
-    "timeYear": 2375,
+    "time": 2319,
+    "timeDay": 1702,
+    "timeWeek": 1633,
+    "timeMonth": 2048,
+    "timeYear": 2373,
     "dailyMinutesDown": {
       "2026-01-29": 118
     }
@@ -111,12 +111,12 @@
     "uptime": "90.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.32%",
+    "uptimeMonth": "99.40%",
     "uptimeYear": "99.92%",
     "time": 652,
-    "timeDay": 639,
-    "timeWeek": 626,
-    "timeMonth": 615,
+    "timeDay": 547,
+    "timeWeek": 607,
+    "timeMonth": 610,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2026-01-21": 116,
@@ -140,10 +140,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 844,
-    "timeDay": 909,
-    "timeWeek": 1003,
-    "timeMonth": 845,
-    "timeYear": 812,
+    "timeDay": 800,
+    "timeWeek": 992,
+    "timeMonth": 842,
+    "timeYear": 811,
     "dailyMinutesDown": {
       "2025-03-27": 25
     }
