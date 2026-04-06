@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 974,
-    "timeDay": 845,
-    "timeWeek": 1040,
-    "timeMonth": 989,
-    "timeYear": 986,
+    "timeDay": 1383,
+    "timeWeek": 1105,
+    "timeMonth": 995,
+    "timeYear": 988,
     "dailyMinutesDown": {
       "2026-01-29": 119
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 291,
-    "timeDay": 777,
-    "timeWeek": 516,
-    "timeMonth": 424,
-    "timeYear": 315,
+    "time": 292,
+    "timeDay": 390,
+    "timeWeek": 558,
+    "timeMonth": 431,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2026-03-11": 49,
       "2026-01-06": 17,
@@ -49,16 +49,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fluktify.eu.ico",
     "slug": "fluktify-eu",
     "status": "up",
-    "uptime": "98.50%",
+    "uptime": "98.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 831,
-    "timeDay": 719,
-    "timeWeek": 984,
+    "time": 830,
+    "timeDay": 902,
+    "timeWeek": 1026,
     "timeMonth": 843,
-    "timeYear": 839,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2026-01-29": 119
     }
@@ -75,10 +75,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 858,
-    "timeDay": 796,
-    "timeWeek": 936,
+    "timeDay": 976,
+    "timeWeek": 978,
     "timeMonth": 852,
-    "timeYear": 867,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2026-01-29": 118
     }
@@ -95,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2238,
-    "timeDay": 1365,
-    "timeWeek": 1564,
-    "timeMonth": 1433,
-    "timeYear": 2231,
+    "timeDay": 1613,
+    "timeWeek": 1610,
+    "timeMonth": 1434,
+    "timeYear": 2229,
     "dailyMinutesDown": {
       "2026-01-29": 118
     }
@@ -109,16 +109,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/trucmoche.com.ico",
     "slug": "trucmoche-com",
     "status": "up",
-    "uptime": "91.05%",
+    "uptime": "91.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 673,
-    "timeDay": 535,
-    "timeWeek": 646,
-    "timeMonth": 587,
-    "timeYear": 643,
+    "time": 674,
+    "timeDay": 1042,
+    "timeWeek": 727,
+    "timeMonth": 600,
+    "timeYear": 645,
     "dailyMinutesDown": {
       "2026-02-21": 123,
       "2026-02-19": 106,
@@ -142,11 +142,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 812,
-    "timeDay": 573,
-    "timeWeek": 582,
-    "timeMonth": 579,
-    "timeYear": 780,
+    "time": 811,
+    "timeDay": 790,
+    "timeWeek": 643,
+    "timeMonth": 585,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2026-03-01": 19
     }
