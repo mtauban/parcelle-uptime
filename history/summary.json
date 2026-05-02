@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 970,
-    "timeDay": 1345,
-    "timeWeek": 975,
-    "timeMonth": 927,
+    "time": 972,
+    "timeDay": 1246,
+    "timeWeek": 967,
+    "timeMonth": 930,
     "timeYear": 982,
     "dailyMinutesDown": {
       "2026-01-29": 119
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 302,
-    "timeDay": 338,
-    "timeWeek": 405,
-    "timeMonth": 445,
-    "timeYear": 330,
+    "time": 303,
+    "timeDay": 783,
+    "timeWeek": 381,
+    "timeMonth": 439,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2026-03-11": 49,
       "2026-01-06": 17,
@@ -49,15 +49,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fluktify.eu.ico",
     "slug": "fluktify-eu",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 830,
-    "timeDay": 946,
-    "timeWeek": 842,
-    "timeMonth": 887,
+    "time": 831,
+    "timeDay": 894,
+    "timeWeek": 825,
+    "timeMonth": 863,
     "timeYear": 846,
     "dailyMinutesDown": {
       "2026-01-29": 119
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 856,
-    "timeDay": 1028,
-    "timeWeek": 850,
-    "timeMonth": 834,
+    "timeDay": 995,
+    "timeWeek": 846,
+    "timeMonth": 833,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2026-01-29": 118
@@ -95,10 +95,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 2204,
-    "timeDay": 1597,
-    "timeWeek": 1551,
-    "timeMonth": 1450,
-    "timeYear": 2138,
+    "timeDay": 1721,
+    "timeWeek": 1528,
+    "timeMonth": 1456,
+    "timeYear": 2135,
     "dailyMinutesDown": {
       "2026-01-29": 118
     }
@@ -115,9 +115,9 @@
     "uptimeMonth": "99.42%",
     "uptimeYear": "99.83%",
     "time": 675,
-    "timeDay": 654,
-    "timeWeek": 628,
-    "timeMonth": 577,
+    "timeDay": 668,
+    "timeWeek": 583,
+    "timeMonth": 576,
     "timeYear": 640,
     "dailyMinutesDown": {
       "2026-04-13": 50,
@@ -146,10 +146,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 791,
-    "timeDay": 650,
-    "timeWeek": 540,
-    "timeMonth": 535,
-    "timeYear": 761,
+    "timeDay": 588,
+    "timeWeek": 547,
+    "timeMonth": 536,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2026-03-01": 19
     }
