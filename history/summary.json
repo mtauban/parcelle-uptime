@@ -67,20 +67,20 @@
     "url": "https://shado.app/",
     "icon": "https://icons.duckduckgo.com/ip3/shado.app.ico",
     "slug": "shado-app",
-    "status": "down",
-    "uptime": "97.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "97.95%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.96%",
     "time": 848,
-    "timeDay": 490,
-    "timeWeek": 727,
-    "timeMonth": 771,
-    "timeYear": 847,
+    "timeDay": 449,
+    "timeWeek": 687,
+    "timeMonth": 759,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2026-01-29": 118,
-      "2026-07-09": 0
+      "2026-07-09": 72
     }
   },
   {
